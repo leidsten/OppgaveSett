@@ -1,0 +1,13 @@
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).exe
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).deps.json
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).runtimeconfig.json
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).runtimeconfig.dev.json
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).dll
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\bin\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).csprojAssemblyReference.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).AssemblyInfoInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).AssemblyInfo.cs
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).csproj.CoreCompileInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).dll
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Pure Puzzles (Thinking Like A Programmer)\Pure Puzzles (Thinking Like A Programmer)\obj\Debug\netcoreapp3.1\Pure Puzzles (Thinking Like A Programmer).genruntimeconfig.cache
