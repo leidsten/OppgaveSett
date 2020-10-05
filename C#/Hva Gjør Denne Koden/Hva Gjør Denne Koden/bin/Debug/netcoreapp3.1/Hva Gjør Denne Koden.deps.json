@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hva Gjør Denne Koden/1.0.0": {
+        "runtime": {
+          "Hva Gjør Denne Koden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hva Gjør Denne Koden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.exe
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.deps.json
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.runtimeconfig.json
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.runtimeconfig.dev.json
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.dll
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\bin\Debug\netcoreapp3.1\Hva Gjør Denne Koden.pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.csprojAssemblyReference.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.AssemblyInfoInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.AssemblyInfo.cs
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.csproj.CoreCompileInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.dll
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Hva Gjør Denne Koden\Hva Gjør Denne Koden\obj\Debug\netcoreapp3.1\Hva Gjør Denne Koden.genruntimeconfig.cache
