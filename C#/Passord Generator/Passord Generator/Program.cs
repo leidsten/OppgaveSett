@@ -12,7 +12,6 @@ namespace PasswordGenerator
 
         static void Main(string[] args)
         {
-            
             Console.WriteLine("args: ", args);
             if (!IsValid(args) && args != null)
             {
@@ -83,7 +82,7 @@ namespace PasswordGenerator
         {
             foreach (var character in lengthStr)
             {
-                if (!char.IsDigit(character))
+                if (!char.IsDigit(character)) //Kunne man returna denne i seg selv?
                 {
                     return false;
                 }
