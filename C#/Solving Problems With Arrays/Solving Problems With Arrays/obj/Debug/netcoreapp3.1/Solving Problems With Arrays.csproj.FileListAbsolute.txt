@@ -1,0 +1,13 @@
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.exe
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.deps.json
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.runtimeconfig.json
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.runtimeconfig.dev.json
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.dll
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\bin\Debug\netcoreapp3.1\Solving Problems With Arrays.pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.csprojAssemblyReference.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.AssemblyInfoInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.AssemblyInfo.cs
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.csproj.CoreCompileInputs.cache
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.dll
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.pdb
+D:\gitREPOS\GET\OppgaveSett\C#\Solving Problems With Arrays\Solving Problems With Arrays\obj\Debug\netcoreapp3.1\Solving Problems With Arrays.genruntimeconfig.cache
