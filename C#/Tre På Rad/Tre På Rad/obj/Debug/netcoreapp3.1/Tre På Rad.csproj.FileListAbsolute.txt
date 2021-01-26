@@ -1,0 +1,13 @@
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.exe
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.deps.json
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.runtimeconfig.json
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.runtimeconfig.dev.json
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.dll
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\bin\Debug\netcoreapp3.1\Tre På Rad.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.csprojAssemblyReference.cache
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.AssemblyInfoInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.AssemblyInfo.cs
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.csproj.CoreCompileInputs.cache
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.dll
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.pdb
+C:\Users\Linn Eidsten\Documents\GitHub\NETcore\OppgaveSett\C#\Tre På Rad\Tre På Rad\obj\Debug\netcoreapp3.1\Tre På Rad.genruntimeconfig.cache
